@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Aug 25 08:53:28 CST 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=/Users/chenshang/Documents/StormWordCount.jar
+manifest.mergeall=true
+manifest.mainclass=storm.starter.WordCountTopology
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
